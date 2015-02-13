@@ -1,10 +1,12 @@
+# Open Source Name Checker
+
 ## Introduction
-`Open Source Project Name Checker` from now on: `OSPNC` is a simple web-service that checks if your new
+`Open Source Name Checker` from now on: `OSNC` is a simple web-service that checks if your new
 project name is already taken on some of most popular open-source communities.
 
 ## Get started
-You can just visit this page: [ospnc](http://ivantomic.com/projects/ospnc/)
-or you can [fork](https://github.com/LogIN-/ospnc/fork) this repo install deps and start service on your own domain
+You can just visit this page: [osnc](http://ivantomic.com/projects/ospnc/)
+or you can [fork](https://github.com/rcmachado/open-source-name-checker/fork) this repo install deps and start service on your own domain
 
 Supported sources |
 --- |
@@ -19,10 +21,10 @@ Supported sources |
 
 ## Support and Bugs
 If you are having trouble, have found a bug, or want to contribute don't be shy.
-[Open a ticket](https://github.com/LogIN-/ospnc/issues) on GitHub.
+[Open a ticket](https://github.com/rcmachado/open-source-name-checker/issues) on GitHub.
 
 ## License
-`OSPNC` source-code uses the The MIT License (MIT), see our `LICENSE` file.
+`OSNC` source-code uses the The MIT License (MIT), see our `LICENSE` file.
 ```
 The MIT License (MIT)
 Copyright (c) LogIN- 2014
