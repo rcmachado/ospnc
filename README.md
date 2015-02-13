@@ -7,20 +7,20 @@ that checks if your new project name is already taken on some of most
 popular open-source communities.
 
 ## Get started
-You can just visit this page: [osnc](http://ivantomic.com/projects/ospnc/)
+
+You can just visit this page: [osnc](http://opensourcenamechecker.com/)
 or you can [fork](https://github.com/rcmachado/open-source-name-checker/fork)
 this repo install deps and start service on your own domain
 
 Supported sources |
 --- |
-![PyPI](http://ivantomic.com/projects/ospnc/template/images/favicons/pypi_16x16.png "PyPI") `PyPI` |
-![Google Code](http://ivantomic.com/projects/ospnc/template/images/favicons/google-code_16x16.png "Google Code") `Google Code` |
-![npmjs](http://ivantomic.com/projects/ospnc/template/images/favicons/npmjs_16x16.png "npmjs") `npmjs` |
-![GitHub](http://ivantomic.com/projects/ospnc/template/images/favicons/github_16x16.png "GitHub") `GitHub` |
-![RubyGems](http://ivantomic.com/projects/ospnc/template/images/favicons/rubygems_16x16.png "RubyGems") `RubyGems` |
-![SourceForge](http://ivantomic.com/projects/ospnc/template/images/favicons/sourceforge_16x16.png "SourceForge") `SourceForge` |
-![CodePlex](http://ivantomic.com/projects/ospnc/template/images/favicons/codeplex_16x16.png "CodePlex") `CodePlex` |
-
+![PyPI](public/template/images/favicons/pypi_16x16.png "PyPI") `PyPI` |
+![Google Code](public/template/images/favicons/google-code_16x16.png "Google Code") `Google Code` |
+![npmjs](public/template/images/favicons/npmjs_16x16.png "npmjs") `npmjs` |
+![GitHub](public/template/images/favicons/github_16x16.png "GitHub") `GitHub` |
+![RubyGems](public/template/images/favicons/rubygems_16x16.png "RubyGems") `RubyGems` |
+![SourceForge](public/template/images/favicons/sourceforge_16x16.png "SourceForge") `SourceForge` |
+![CodePlex](public/template/images/favicons/codeplex_16x16.png "CodePlex") `CodePlex` |
 
 ## Support and Bugs
 
