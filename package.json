@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:LogIN-/open-source-name-checker.git"
+    "url": "git@github.com:rcmachado/open-source-name-checker.git"
   },
   "keywords": [
     "project",
@@ -21,18 +21,23 @@
   "author": "LogIN- <info@ivantomic.com> (https://github.com/LogIN-)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/LogIN-/datagram/issues"
+    "url": "https://github.com/rcmachado/open-source-name-checker/issues"
   },
-  "homepage": "https://github.com/LogIN-/open-source-name-checker",
+  "homepage": "https://github.com/rcmachado/open-source-name-checker",
   "dependencies": {
     "express": "^4.9.5",
     "socket.io": "^1.1.0",
+    "request": "^2.53.0",
     "underscore": "^1.7.0"
   },
   "maintainers": [
     {
       "name": "Ivan Tomic",
       "email": "info@ivantomic.com"
+    },
+    {
+      "name": "Rodrigo Machado",
+      "email": "rcmachado@gmail.com"
     }
   ]
 }
